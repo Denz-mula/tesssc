@@ -1,0 +1,21 @@
+{
+    "name": "AteusCrasher",
+    "version": "12.00",
+    "description": "AlwaysHanzz",
+    "main": "case.js",
+    "scripts": {
+        "start": "node case.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.7.1",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "moment": "^2.29.1",
+        "crypto": "latest",
+        "@octokit/rest": "latest",
+        "moment-timezone": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3"
+    }
+}
